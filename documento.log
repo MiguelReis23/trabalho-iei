@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.11.3)  19 DEC 2021 19:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.11.3)  19 DEC 2021 20:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -778,16 +778,16 @@ Package pdftex.def Info: ciberseguranca-2.jpeg  used on input line 305.
 
  <./ciberseguranca-2.jpeg>]
 Package acronym Info: Label `acro:MR' newly defined as it shall be overridden
-although it is yet undefined on input line 317.
+although it is yet undefined on input line 316.
 Package acronym Info: Label `acro:HC' newly defined as it shall be overridden
-although it is yet undefined on input line 318.
+although it is yet undefined on input line 317.
 
-Overfull \hbox (7.74147pt too wide) in paragraph at lines 318--319
+Overfull \hbox (7.74147pt too wide) in paragraph at lines 317--318
 []\T1/cmr/m/n/10 - Re-sumo,Critical In-fras-truc-tu-ral Se-cu-rity,Application
  []
 
 
-Overfull \hbox (70.98788pt too wide) in paragraph at lines 318--319
+Overfull \hbox (70.98788pt too wide) in paragraph at lines 317--318
 \T1/cmr/m/n/10 Security,End-User Edu-ca-tion, Si-nais de que po-de-mos ter sido
  ata-ca-dos,Conclusões,pesquisa
  []
@@ -798,53 +798,53 @@ Overfull \hbox (70.98788pt too wide) in paragraph at lines 318--319
 
 ]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
-51.
+50.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Overfull \hbox (39.51721pt too wide) in paragraph at lines 352--352
+Overfull \hbox (39.51721pt too wide) in paragraph at lines 351--351
 []\T1/cmr/m/it/10 Importancia da Ci-ber-se-gu-rança\T1/cmr/m/n/10 , []$\T1/cmtt
 /m/n/10 https : / / www . techtarget . com / searchsecurity /
  []
 
 
-Overfull \hbox (2.03198pt too wide) in paragraph at lines 352--352
+Overfull \hbox (2.03198pt too wide) in paragraph at lines 351--351
 []\T1/cmr/m/it/10 Segurança Com-pu-ta-ci-o-nal\T1/cmr/m/n/10 , []$\T1/cmtt/m/n/
 10 https : / / en . wikipedia . org / wiki / Computer _
  []
 
 
-Overfull \hbox (20.79959pt too wide) in paragraph at lines 352--352
+Overfull \hbox (20.79959pt too wide) in paragraph at lines 351--351
 []\T1/cmr/m/it/10 Dominios da Ci-ber-se-gu-rança\T1/cmr/m/n/10 , []$\T1/cmtt/m/
 n/10 https : / / www . ibm . com / topics / cybersecurity$[]\T1/cmr/m/n/10 ,
  []
 
 
-Overfull \hbox (14.7786pt too wide) in paragraph at lines 352--352
+Overfull \hbox (14.7786pt too wide) in paragraph at lines 351--351
 []\T1/cmr/m/it/10 Programa Eu-ro-peu para pro-te-ção de In-fra-es-tru-tu-ras\T1
 /cmr/m/n/10 , []$\T1/cmtt/m/n/10 https : / / en . wikipedia .
  []
 
 
-Overfull \hbox (9.88pt too wide) in paragraph at lines 352--352
+Overfull \hbox (9.88pt too wide) in paragraph at lines 351--351
 []\T1/cmr/m/it/10 Segurança de Apli-ca-ções\T1/cmr/m/n/10 , []$\T1/cmtt/m/n/10 
 https : / / en . wikipedia . org / wiki / Application _
  []
 
 
-Overfull \hbox (0.32146pt too wide) in paragraph at lines 352--352
+Overfull \hbox (0.32146pt too wide) in paragraph at lines 351--351
 []\T1/cmr/m/it/10 Ciberincidência\T1/cmr/m/n/10 , []$\T1/cmtt/m/n/10 https : / 
 / cybersecurityguide . org / resources / cyber -[]
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 353.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 352.
 [18
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 353.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 352.
  (./documento.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 353.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 353.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 352.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 352.
 Package rerunfilecheck Info: File `documento.out' has not changed.
 (rerunfilecheck)             Checksum: D170D0C025A5A178F2168D8BFE809DBE;882.
 Package logreq Info: Writing requests to 'documento.run.xml'.
@@ -875,7 +875,7 @@ Here is how much of TeX's memory you used:
 /ecrm1728.600pk> </home/labi/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec
 /ecrm1440.600pk> </home/labi/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec
 /ecbx2488.600pk>
-Output written on documento.pdf (23 pages, 1622463 bytes).
+Output written on documento.pdf (23 pages, 1622370 bytes).
 PDF statistics:
  763 PDF objects out of 1000 (max. 8388607)
  328 compressed objects within 4 object streams
