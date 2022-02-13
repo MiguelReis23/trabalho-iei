@@ -1,0 +1,27 @@
+/*
+#menu ul li a {
+
+	
+	background-color:#14b57a;
+	color: #333;
+	text-decoration: none;
+	border-bottom:3px solid #EDEDED;
+}
+*/
+#menu {  
+  border-bottom: 1px solid #e9ecef;
+  background-color: white;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+	#menu .navbar-brand{
+	font-weight: 800;
+	font-size: 20pt;
+    color: #343a40; 
+    letter-spacing: 1px}
+    #menu .nav-item{
+    font-size: 15px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    
+    }
