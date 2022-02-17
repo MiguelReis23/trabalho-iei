@@ -46,10 +46,33 @@ a.nav-link:active{
 
 }
 
-
-
-
+/*rodape*/
+footer{
+  text-align: center;
+  font-size: 75%;
+}
 
 
 /*texto da cloud*/
 .appear{display: none;}
+
+
+body{
+  background-color: #363636;
+
+}
+
+h1{
+  color:white
+}
+
+p{
+  color: white;
+
+
+}
+
+
+/*Henrique*/
+
+
