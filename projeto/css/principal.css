@@ -21,6 +21,7 @@ a.nav-link{
 
   background-color: #005bb5;
   color: white;
+  font-size: 23px;
   
 }
 .btn:hover{
@@ -58,6 +59,7 @@ footer{
 
 
 body{
+  font-size: 23px;
   background-color: #363636;
 
 }
@@ -67,6 +69,7 @@ h1{
 }
 
 p{
+  font-size: 95%;
   color: white;
 
 
