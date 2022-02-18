@@ -74,8 +74,13 @@ body{
   
 }
 
+
 h1{
   color:white!important;
+}
+h1::selection {
+            background-color: #005bb5;
+            color: white;
 }
 
 p{
@@ -111,10 +116,27 @@ h5{
   margin-bottom:30pt;
   margin-right:5%;
 }
+h5::selection {
+            background-color: #005bb5;
+            color: white;
+}
+h3::selection {
+            background-color: #005bb5;
+            color: white;
+}
+
 h4{
   /*font-family: "Times New Roman", Times, serif;*/
   color:white;
 
+}
+h4::selection {
+            background-color: #005bb5;
+            color: white;
+}
+p::selection {
+            background-color: #005bb5;
+            color: white;
 }
 
 /*propriedades do container*/
@@ -133,7 +155,10 @@ h4{
 	border: 1px solid #363636;
 	border-style: ridge;
 }
-
+.margin2{
+	margin-right:100px;
+	margin-left:100px;
+}
 
 
 
