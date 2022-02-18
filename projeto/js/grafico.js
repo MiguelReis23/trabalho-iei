@@ -41,7 +41,11 @@ $("#grafico").highcharts({
         name: "Percentagem comprometida por pelo menos um ataque bem-sucedido",
         data: [93.9, 91.5, 90.6, 89.8, 89.7, 89.4, 87.8, 85.7, 85.7, 85.3, 83.7, 82.2, 82.0, 81.6, 80.9, 71.1]
     }],
-    
+    legend:{
+        itemStyle: {
+                    color: "#FFFFFF",
+        }   
+    },
 });
 $("#grafico2").highcharts({
 	chart: {
