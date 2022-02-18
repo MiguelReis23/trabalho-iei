@@ -64,7 +64,7 @@ footer{
 
 /*imagens*/
 img{
-border-radius: 5%
+	border-radius: 5%
 }
 /*letra*/
 
@@ -111,7 +111,11 @@ h5{
   margin-bottom:30pt;
   margin-right:5%;
 }
+h4{
+  /*font-family: "Times New Roman", Times, serif;*/
+  color:white;
 
+}
 
 /*propriedades do container*/
 .container {
@@ -123,11 +127,13 @@ h5{
 	box-shadow: 0px 0px 100px 0px black;
 	border-style: ridge;
 }
-/*
+
+
 .bloco{
-	border: 1px solid #005bb5
+	border: 1px solid #363636;
+	border-style: ridge;
 }
-/*
+
 
 
 
@@ -160,6 +166,31 @@ h5{
     justify-content: center;
     align-items: center;
 }
+
+.new {
+  border: 10px solid #005bb5;
+  border-radius: 5px;
+  margin-left:200px;
+  margin-right:200px;
+  box-shadow: 0px 0px 50px 7px #005bb5;
+}
+.new2 {
+  border: 10px solid #005bb5;
+  border-radius: 5px;
+  margin-left:100px;
+  margin-right:100px;
+  box-shadow: 0px 0px 50px 7px #005bb5;
+}
+
+.hr1 {
+	border: 2px solid white;
+	margin-left:100px;
+	margin-right:100px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 3px 2px black;
+}
+
+
 
 /*posicao botao*/
 .container .btn {
