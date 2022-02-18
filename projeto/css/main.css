@@ -206,6 +206,20 @@ p::selection {
   margin-right:100px;
   box-shadow: 0px 0px 50px 7px #005bb5;
 }
+.new3 {
+  border: 10px solid #005bb5;
+  border-radius: 5px;
+  margin-left:30px;
+  margin-right:50px;
+  box-shadow: 0px 0px 50px 7px #005bb5;
+}
+.new4 {
+  border: 10px solid #005bb5;
+  border-radius: 6%;
+  margin-left:200px;
+  margin-right:200px;
+  box-shadow: 0px 0px 50px 7px #005bb5;
+}
 
 .hr1 {
 	border: 2px solid white;
