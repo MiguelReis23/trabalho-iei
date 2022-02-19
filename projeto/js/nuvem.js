@@ -7,7 +7,7 @@ document.querySelector('.magico').addEventListener('click', function () {
     } else {
         document.querySelector('.appear').setAttribute('style', 'display: none');
     }
-}); 
+});
 
 
 
