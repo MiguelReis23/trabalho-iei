@@ -166,10 +166,7 @@ p::selection {
     margin-right: 100px;
     margin-left: 100px;
 }
-.margin3{
-    margin-left: 20%;
-    margin-right: 20%;
-}
+
 
 .btn2 {
     background-color: #005bb5;
@@ -208,6 +205,7 @@ p::selection {
     width: 100%;
     height: auto;
 }
+
 #div2 {
     border: 3px solid white;
     border-style: ridge;
@@ -234,7 +232,7 @@ p::selection {
     box-shadow: 0px 0px 50px 7px #005bb5;
 }
 .new2 {
-    border: 10px solid #005bb5;
+    border: 7px solid #005bb5;
     border-radius: 5px;
     margin-left: 100px;
     margin-right: 100px;
@@ -270,6 +268,15 @@ p::selection {
     margin: auto;
 }
 
+.card{
+    border: 7px solid #005bb5;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-right: 100px;
+    box-shadow: 0px 0px 50px 7px #005bb5;
+}
+
+
 /*posicao botao*/
 .container .btn {
     position: absolute;
@@ -300,6 +307,7 @@ p::selection {
 }
 .card-text {
     color: white !important;
+    justify-content:center
 }
 
 header.background {
