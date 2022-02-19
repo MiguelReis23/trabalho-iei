@@ -167,7 +167,6 @@ p::selection {
     margin-left: 100px;
 }
 
-
 .btn2 {
     background-color: #005bb5;
     color: white;
@@ -267,15 +266,18 @@ p::selection {
 .col-xs-6 {
     margin: auto;
 }
+.col-md-12 {
+    margin-left: 0%;
+    justify-content: center;
+}
 
-.card{
+.card {
     border: 7px solid #005bb5;
     border-radius: 5px;
     margin-left: 100px;
     margin-right: 100px;
     box-shadow: 0px 0px 50px 7px #005bb5;
 }
-
 
 /*posicao botao*/
 .container .btn {
@@ -307,15 +309,34 @@ p::selection {
 }
 .card-text {
     color: white !important;
-    justify-content:center
+    justify-content: center;
+}
+header.background {
+    background-image: url('../imagens/cybersecurity-looks-to-the-cloud-to-protect-data-at-sea.jpg');
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: -5%;
+}
+.titulo {
+    margin-top: -25%;
+    margin-bottom: 20%;
+}
+.setinha {
+    margin-top: -10vh;
+    margin-bottom: 2vh;
+    margin-left: 48%;
+    animation: is-bouncing 1s ease-in-out alternate infinite;
 }
 
-header.background {
-    background-image: url();
+@keyframes is-bouncing {
+    to {
+        transform: translateY(10px);
+    }
 }
 
 .bit:before {
     height: 100px;
     display: block;
     content: '';
-  }
+}
