@@ -3,9 +3,9 @@ let cont1 = false
 document.querySelector('.escondido1').addEventListener('click', function () {
     cont1 = !cont1;
     if (cont1) {
-        document.querySelector('.appear2').setAttribute('style', 'display: block');
+        document.querySelector('.appear1').setAttribute('style', 'display: block');
     } else {
-        document.querySelector('.appear2').setAttribute('style', 'display: none');
+        document.querySelector('.appear1').setAttribute('style', 'display: none');
     }
 });
 
